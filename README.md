@@ -14,3 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+👋 Hi, I’m @haeunyy96
+
+🔭 I’m currently working on building an interactive website for 3D Anatomy viewer at University of Toronto
+
+👯 I’m looking to collaborate on building react projects!
+
+🤝 I’m available for freelancing.
+
+🌱 I have recently graduated from @HackerYou's (Juno College of Technology) Web Development Bootcamp in March 2023.
+
+📫 Please reach me at haeunsong0615@gmail.com
+
+📄 Know about my experiences [Resume](https://github.com/haeunyy96/haeunyy96/files/10862789/Haeun_Song_Resume.pdf)
