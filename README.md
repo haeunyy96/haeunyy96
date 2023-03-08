@@ -27,4 +27,5 @@ Here are some ideas to get you started:
 
 📫 Please reach me at haeunsong0615@gmail.com
 
-📄 Know about my experiences [Resume](https://github.com/haeunyy96/haeunyy96/files/10862789/Haeun_Song_Resume.pdf)
+📄 Know about my experiences [Resume](https://github.com/haeunyy96/haeunyy96/files/10922921/Haeun_Song_Resume.pdf)
+
